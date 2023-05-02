@@ -1,0 +1,221 @@
+[
+    {
+      "id":1,
+      "chief_id":10,
+  "chef_picture": "https://i.ibb.co/Dk2M01M/1.jpg",
+  "chef_name": "John Smith",
+  "years_of_experience": 10,
+  "num_of_recipes": 50,
+  "likes": 10000,
+  "short_bio": "John Smith is an award-winning chef with a passion for creating delicious and innovative dishes.",
+  "recipes": [
+    {
+      "recipe_picture":"https://i.ibb.co/w6xTRHm/f1.jpg",
+      "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
+      "ingredients": ["salmon fillets", "butter", "lemon juice", "garlic", "salt"],
+      "cooking_method": "1. Preheat grill to high heat. 2. Mix butter, lemon juice, garlic, and salt in a small bowl. 3. Brush salmon fillets with the butter mixture. 4. Grill salmon for 5-7 minutes per side. 5. Serve with extra lemon butter sauce.",
+      "rating": 4.5,
+      "favorite": false
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/wLxS200/f2.jpg",
+      "recipe_name": "Pasta with Roasted Tomatoes and Garlic",
+      "ingredients": ["pasta", "cherry tomatoes", "garlic", "olive oil", "basil"],
+      "cooking_method": "1. Preheat oven to 400°F. 2. Cut cherry tomatoes in half and place them on a baking sheet. 3. Toss tomatoes with garlic, olive oil, salt, and pepper. 4. Roast for 20-25 minutes. 5. Cook pasta according to package instructions. 6. Mix pasta with roasted tomatoes and top with fresh basil.",
+      "rating": 4.8,
+      "favorite": true
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/s1F0Tcj/f3.jpg",
+      "recipe_name": "Beef Stroganoff",
+      "ingredients": ["beef sirloin", "onion", "mushrooms", "sour cream", "beef broth"],
+      "cooking_method": "1. Cut beef into thin strips. 2. Cook beef in a large skillet until browned. 3. Remove beef from skillet and set aside. 4. Add onion and mushrooms to the skillet and cook until tender. 5. Add beef broth and bring to a boil. 6. Reduce heat and stir in sour cream. 7. Add beef back to the skillet and heat through. 8. Serve over egg noodles.",
+      "rating": 4.2,
+      "favorite": false
+    }
+  ]
+},
+{
+  "id":2,
+  "chief_id":11,
+  "chef_picture": "https://example.com/chef_profile_picture.jpg",
+  "chef_name": "Anna Nguyen",
+  "years_of_experience": 8,
+  "num_of_recipes": 40,
+  "likes": 8000,
+  "short_bio": "Anna Nguyen is a Vietnamese-American chef who blends the flavors of Southeast Asia with modern cooking techniques.",
+  "recipes": [
+    {
+      "recipe_picture":"https://i.ibb.co/NYC9jVj/f4.jpg",
+      "recipe_name": "Vietnamese Lemongrass Chicken",
+      "ingredients": ["chicken thighs", "lemongrass", "garlic", "fish sauce", "brown sugar"],
+      "cooking_method": "1. Mix lemongrass, garlic, fish sauce, and brown sugar in a bowl. 2. Coat chicken thighs with the marinade. 3. Grill chicken for 6-8 minutes per side. 4. Serve with rice and steamed vegetables.",
+      "rating": 4.7,
+      "favorite": true
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/QMJ3H4f/f5.jpg",
+      "recipe_name": "Shrimp Pad Thai",
+      "ingredients": ["rice noodles", "shrimp", "eggs", "bean sprouts", "tamarind paste"],
+      "cooking_method": "1. Soak rice noodles in warm water for 30 minutes. 2. Heat oil in a wok or large skillet. 3. Add shrimp and cook until pink. 4. Push shrimp to one side of the pan and add beaten eggs to the other side. 5. Scramble eggs and then mix with shrimp. 6. Add drained noodles and bean sprouts to the pan. 7. Mix in tamarind paste, sugar, and fish sauce. 8. Serve with lime wedges and chopped peanuts.",
+      "rating": 4.9,
+      "favorite": true
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/Ms6qM1x/f6.jpg",
+      "recipe_name": "Crispy Tofu with Peanut Sauce",
+      "ingredients": ["tofu", "cornstarch", "peanut oil", "soy sauce", "peanut butter"],
+      "cooking_method": "1. Drain tofu and pat dry. 2. Cut tofu into bite-sized cubes. 3. Coat tofu with cornstarch. 4. Heat peanut oil in a large skillet. 5. Fry tofu until golden brown. 6. Mix soy sauce, rice vinegar, peanut butter, and honey in a bowl. 7. Serve crispy tofu with peanut sauce.",
+      "rating": 4.4,
+      "favorite": false
+    }
+  ]
+},
+{
+  "id":3,
+  "chief_id":12,
+  "chef_picture": "https://example.com/chef_profile_picture.jpg",
+  "chef_name": "Mario Rossi",
+  "years_of_experience": 12,
+  "num_of_recipes": 70,
+  "likes": 12000,
+  "short_bio": "Mario Rossi is an Italian chef who has worked in some of the most prestigious restaurants in Europe, including a Michelin-starred restaurant in Paris.",
+  "recipes": [
+    {
+      "recipe_picture":"https://i.ibb.co/wzd4Lmh/f7.jpg",
+      "recipe_name": "Spaghetti alla Carbonara",
+      "ingredients": ["spaghetti", "pancetta", "pecorino cheese", "eggs", "black pepper"],
+      "cooking_method": "1. Cook spaghetti in boiling salted water. 2. While pasta cooks, fry pancetta in a pan until crispy. 3. Whisk eggs, grated pecorino cheese, and black pepper together in a bowl. 4. Drain pasta and add to the pancetta pan. 5. Remove pan from heat and add the egg mixture to the pasta. 6. Stir everything together until the egg is cooked and the pasta is coated in sauce. 7. Serve with extra grated cheese and black pepper.",
+      "rating": 4.8,
+      "favorite": true
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/2FLFB3S/f8.jpg",
+      "recipe_name": "Osso Buco",
+      "ingredients": ["veal shanks", "carrots", "onion", "celery", "tomato sauce"],
+      "cooking_method": "1. Heat oil in a large pot. 2. Season veal shanks with salt and pepper and sear in the pot. 3. Remove the shanks and set aside. 4. Add chopped carrots, onion, and celery to the pot and cook until soft. 5. Add tomato sauce and veal stock to the pot. 6. Add the veal shanks back to the pot and simmer for 2-3 hours, until the meat is tender. 7. Serve with gremolata and risotto.",
+      "rating": 4.6,
+      "favorite": true
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/vYBsTw4/f9.jpg",
+      "recipe_name": "Tiramisu",
+      "ingredients": ["ladyfingers", "espresso", "Marsala wine", "mascarpone cheese", "cocoa powder"],
+      "cooking_method": "1. Brew espresso and stir in Marsala wine. 2. Dip ladyfingers in the espresso mixture and place in a dish. 3. Mix mascarpone cheese, sugar, and vanilla extract in a bowl. 4. Spread the mixture over the ladyfingers. 5. Dust with cocoa powder. 6. Chill in the fridge for at least 2 hours. 7. Serve chilled.",
+      "rating": 4.9,
+      "favorite": false
+    }
+  ]
+},
+{
+  
+  "id":4,
+  "chief_id":13,
+  "chef_picture": "https://example.com/chef_profile_picture.jpg",
+  "chef_name": "Maria Hernandez",
+  "years_of_experience": 8,
+  "num_of_recipes": 50,
+  "likes": 8000,
+  "short_bio": "Maria Hernandez is a Mexican chef who grew up surrounded by the aromas and flavors of traditional Mexican cuisine. She has worked in several restaurants in Mexico City, and now runs her own restaurant in Los Angeles, California.",
+  "recipes": [
+    {
+      "recipe_picture":"https://i.ibb.co/RcksfN8/f10.jpg",
+      "recipe_name": "Chiles Rellenos",
+      "ingredients": ["poblano peppers", "ground beef", "onion", "garlic", "tomato sauce"],
+      "cooking_method": "1. Roast poblano peppers and remove skin. 2. Cook ground beef with onion and garlic. 3. Stuff the peppers with the beef mixture. 4. Dip the stuffed peppers in egg batter and fry. 5. Serve with tomato sauce.",
+      "rating": 4.7,
+      "favorite": true
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/8zJwpZT/f12.jpg",
+      "recipe_name": "Tacos al Pastor",
+      "ingredients": ["pork shoulder", "pineapple", "onion", "cilantro", "tortillas"],
+      "cooking_method": "1. Marinate pork shoulder with pineapple, onion, and spices. 2. Roast the pork on a spit. 3. Serve the pork on tortillas with chopped pineapple and cilantro.",
+      "rating": 4.9,
+      "favorite": true
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/8zJwpZT/f12.jpg",
+      "recipe_name": "Arroz con Leche",
+      "ingredients": ["rice", "milk", "cinnamon", "sugar", "raisins"],
+      "cooking_method": "1. Cook rice with milk, cinnamon, and sugar until creamy. 2. Add raisins and cook for a few more minutes. 3. Serve warm or chilled.",
+      "rating": 4.5,
+      "favorite": false
+    }
+  ]
+},
+{
+  "id":5,
+  "chief_id":14,
+  "chef_picture": "https://example.com/chef_profile_picture.jpg",
+  "chef_name": "Emily Nguyen",
+  "years_of_experience": 10,
+  "num_of_recipes": 100,
+  "likes": 12000,
+  "short_bio": "Emily Nguyen is a Vietnamese-American chef who is known for her fusion cuisine. She grew up in a Vietnamese household, but was also influenced by the diverse food culture in her hometown of Los Angeles.",
+  "recipes": [
+    {
+      "recipe_picture":"https://i.ibb.co/k0KwzNK/f13.jpg",
+      "recipe_name": "Pho Taco",
+      "ingredients": ["pho noodles", "beef", "cilantro", "onion", "lime"],
+      "cooking_method": "1. Cook pho noodles and beef separately. 2. Warm up the tortilla. 3. Add beef and pho noodles into the taco shell. 4. Top with cilantro, onion, and lime.",
+      "rating": 4.8,
+      "favorite": true
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/jb1Q13w/f14.jpg",
+      "recipe_name": "Banh Mi Burger",
+      "ingredients": ["ground pork", "baguette", "mayonnaise", "pickled carrots", "cucumber"],
+      "cooking_method": "1. Season ground pork and form it into patties. 2. Cook the patties. 3. Cut a baguette into pieces. 4. Spread mayonnaise on the bread. 5. Place the pork patty on the bread. 6. Add pickled carrots and cucumber on top.",
+      "rating": 4.9,
+      "favorite": true
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/sm5DkPm/f15.jpg",
+      "recipe_name": "Vietnamese Pizza",
+      "ingredients": ["rice paper", "shrimp", "mozzarella cheese", "scallions", "tomato sauce"],
+      "cooking_method": "1. Cut the rice paper into a circle. 2. Add tomato sauce and mozzarella cheese. 3. Add shrimp and scallions on top. 4. Bake in the oven until the cheese is melted.",
+      "rating": 4.5,
+      "favorite": false
+    }
+  ]
+},
+{
+  "id":6,
+  "chief_id":15,
+  "chef_picture": "https://example.com/chef_profile_picture.jpg",
+  "chef_name": "John Smith",
+  "years_of_experience": 15,
+  "num_of_recipes": 75,
+  "likes": 9500,
+  "short_bio": "John Smith is a classically trained French chef who has worked in some of the most prestigious restaurants in Paris and New York. He now runs his own restaurant in San Francisco, where he combines French techniques with Californian ingredients.",
+  "recipes": [
+    {
+      "recipe_picture":"https://i.ibb.co/R70YhmB/f16.jpg",
+      "recipe_name": "Coq au Vin",
+      "ingredients": ["chicken", "bacon", "onion", "carrots", "red wine"],
+      "cooking_method": "1. Brown chicken and bacon in a Dutch oven. 2. Add onions and carrots. 3. Pour in red wine and simmer for 2 hours. 4. Serve with crusty bread.",
+      "rating": 4.7,
+      "favorite": true
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/GQygnv5/f17.jpg",
+      "recipe_name": "Bouillabaisse",
+      "ingredients": ["fish", "shellfish", "fennel", "tomatoes", "saffron"],
+      "cooking_method": "1. Saute fennel and onion in olive oil. 2. Add tomatoes and saffron. 3. Pour in fish stock and bring to a boil. 4. Add fish and shellfish. 5. Serve with rouille and crusty bread.",
+      "rating": 4.9,
+      "favorite": true
+    },
+    {
+      "recipe_picture":"https://i.ibb.co/K9fdZZF/f18.jpg",
+      "recipe_name": "Ratatouille",
+      "ingredients": ["eggplant", "zucchini", "bell peppers", "tomatoes", "garlic"],
+      "cooking_method": "1. Saute garlic and onion in olive oil. 2. Add eggplant, zucchini, and bell peppers. 3. Add chopped tomatoes and simmer for 30 minutes. 4. Serve hot or cold.",
+      "rating": 4.5,
+      "favorite": false
+    }
+  ]
+}
+
+
+]
