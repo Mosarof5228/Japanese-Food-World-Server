@@ -38,7 +38,7 @@
 {
   "id":2,
   "chief_id":11,
-  "chef_picture": "https://example.com/chef_profile_picture.jpg",
+  "chef_picture": "https://i.ibb.co/NxxkPHR/2.jpg",
   "chef_name": "Anna Nguyen",
   "years_of_experience": 8,
   "num_of_recipes": 40,
@@ -74,7 +74,7 @@
 {
   "id":3,
   "chief_id":12,
-  "chef_picture": "https://example.com/chef_profile_picture.jpg",
+  "chef_picture": "https://i.ibb.co/yVSWmdp/3.jpg",
   "chef_name": "Mario Rossi",
   "years_of_experience": 12,
   "num_of_recipes": 70,
@@ -111,7 +111,7 @@
   
   "id":4,
   "chief_id":13,
-  "chef_picture": "https://example.com/chef_profile_picture.jpg",
+  "chef_picture": "https://i.ibb.co/PzXvrWq/4.jpg",
   "chef_name": "Maria Hernandez",
   "years_of_experience": 8,
   "num_of_recipes": 50,
@@ -147,7 +147,7 @@
 {
   "id":5,
   "chief_id":14,
-  "chef_picture": "https://example.com/chef_profile_picture.jpg",
+  "chef_picture": "https://i.ibb.co/svpJ96D/img3.jpg",
   "chef_name": "Emily Nguyen",
   "years_of_experience": 10,
   "num_of_recipes": 100,
@@ -183,7 +183,7 @@
 {
   "id":6,
   "chief_id":15,
-  "chef_picture": "https://example.com/chef_profile_picture.jpg",
+  "chef_picture": "https://i.ibb.co/DL3xt09/6.jpg",
   "chef_name": "John Smith",
   "years_of_experience": 15,
   "num_of_recipes": 75,
