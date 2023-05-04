@@ -9,7 +9,7 @@ var cors = require('cors')
 
 app.use(cors())
 app.get('/', (req, res) => {
-    res.send('Welcome to Japanese Resturent')
+    res.send('Welcome to Our Res..')
 })
 
 app.get('/chiefs', (req, res) => {
